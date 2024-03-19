@@ -4,7 +4,7 @@
   "private": true,
 
   "stackblitz": {
-    "startCommand": "cat extensions.txt | xargs -L 1 code --install-extension && npm install && npm start"
+    "startCommand": "npm start"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
