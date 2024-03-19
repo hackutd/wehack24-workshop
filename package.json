@@ -4,7 +4,7 @@
   "private": true,
 
   "stackblitz": {
-    "startCommand": "npm start"
+    "startCommand": "npm install && npm start"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
