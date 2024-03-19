@@ -1,3 +1,0 @@
-"dsznajder.es7-react-js-snippets"
-"esbenp.prettier-vscode"
-"bradlc.vscode-tailwindcss"
