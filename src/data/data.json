@@ -1,116 +1,110 @@
 [
-    {
-      "id": 1,
-      "name": "Ericdoa: Dead On Arrival Tour",
-      "date": "Feb 2",
-      "venue": "Tulips Fort Worth",
-      "image": "https://www.ericdoa.com/files/2022/02/og.jpg",
-      "type": "concert",
-      "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
-    },
-    {
-        "id": 2,
-        "name": "WeHack",
-        "date": "TODAY",
-        "venue": "UTD ECSW",
-        "image": "https://codahosted.io/docs/qXjD8vs6q5/blobs/bl-8yXSPV_iZ0/ea9406b17f25b6c5b597f5f0ab15760e889f73bb2f24839e42b4e9ca4fe8d925360912068150dcfa6f18ed4f3fe8e9cb7d3d08dd055396fa92f09c0a8d51ac08d01da0cb929c6e7fa5960165e1061dd77c4cc8d88ece45f7460d1cac7aac443aebc03200",
-        "type": "event",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/1805/PNG/512/4230535-calendar-event-star_115022.png"
-    },
-    {
-      "id": 3,
-      "name": "Laufey: The Bewitched Tour",
-      "date": "Apr 17",
-      "venue": "Winspear Opera House",
-      "image": "https://www.vafest.org/media/ec1b4swo/laufey_pdp3.png?width=1440&height=607&rnd=133488523385130000",
-      "type": "concert",
-      "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
-    },
-    {
-        "id": 4,
-        "name": "Lyn Lapid: The Epilogue Tour",
-        "date": "Feb 6",
-        "venue": "Crowbar",
-        "image": "https://i.scdn.co/image/ab67616d00001e02262f7f972fcb6f52b0500576",
-        "type": "concert",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
-    },
-    {
-        "id": 5,
-        "name": "Shazz: Greatest Artist of All Time",
-        "date": "TBD",
-        "venue": "SU Theater",
-        "image": "https://i.scdn.co/image/ab676186000010167102b305c2fbeacf59042847",
-        "type": "concert",
-        "typeIcon": "https://static.vecteezy.com/system/resources/previews/017/178/054/original/100-percent-emoji-symbol-on-transparent-background-free-png.png"
-    },
-    {
-        "id": 6,
-        "name": "Keshi: Hell & Back Tour",
-        "date": "Apr 15",
-        "venue": "South Side Ballroom",
-        "image": "https://media2.miaminewtimes.com/mia/imager/keshi-overcomes-fear-on-his-debut-album-gabriel/u/magnum/14419507/keshi-press-1.jpg?cb=1690310511",
-        "type": "concert",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
-
-    },
-    {
-        "id": 7,
-        "name": "Hasan Minhaj: Off With His Head Tour",
-        "date": "May 6",
-        "venue": "Civic Theatre",
-        "image": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/phoenix/Hasan-Minhaj-Off-With-His-Head_EEA8FEEF-5056-B3A8-496F2A5B182D3DBA_eebb9c04-5056-b3a8-49aa63b5862a9d24.jpg",
-        "type": "comedy",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/37/PNG/512/comedymask_theapplication_comedi_2949.png"
-    },
-    {
-        "id": 8,
-        "name": "Jimmy O Yang: Tiger Son",
-        "date": "Jul 7",
-        "venue": "The Mirage",
-        "image": "https://i.ticketweb.com/i/00/08/79/39/81/Original.jpg?v=1",
-        "type": "comedy",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/37/PNG/512/comedymask_theapplication_comedi_2949.png"
-
-    },
-    {
-        "id": 9,
-        "name": "The Tech Roast Show",
-        "date": "Mar 30",
-        "venue": "San Jose",
-        "image": "https://video-images.vice.com/articles/63d27fbf5981e9a84e816147/lede/1674739648918-photo6.jpeg?crop=1xw:0.8426xh;0xw,0.0368xh&resize=1200:*",
-        "type": "comedy",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/37/PNG/512/comedymask_theapplication_comedi_2949.png"
-    },
-    {
-        "id": 10,
-        "name": "Weston Estate: Something in the Water",
-        "date": "Jun 9",
-        "venue": "The Echo",
-        "image": "https://thehiddenhits.files.wordpress.com/2021/03/weston-estate-the-hidden-hits.jpg?w=1500",
-        "type": "concert",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
-    },
-    {
-        "id": 11,
-        "name": "FoodieLand Night Market",
-        "date": "Apr 21",
-        "venue": "Fair Park",
-        "image": "https://cdn-az.allevents.in/events7/banners/0272fc39f9e203d6cc400004520e2755a1e5a659ffedcb89d92135e3b2d5e035-rimg-w960-h480-gmir.jpg?v=1710192373",
-        "type": "event",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/1805/PNG/512/4230535-calendar-event-star_115022.png"
-    },
-    {
-
-        "id": 12,
-        "name": "Taylor Swift: The Eras Tour",
-        "date": "Oct 13",
-        "image": "https://www.cincymuseum.org/wp-content/uploads/2023/11/2_Landscape-Hero-Art_16x9_3000-scaled.jpg",
-        "type": "concert",
-        "venue": "AT&T Stadium",
-        "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
-
-
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "WEHack",
+    "date": "TODAY",
+    "venue": "UTD ECSW",
+    "image": "https://codahosted.io/docs/qXjD8vs6q5/blobs/bl-8yXSPV_iZ0/ea9406b17f25b6c5b597f5f0ab15760e889f73bb2f24839e42b4e9ca4fe8d925360912068150dcfa6f18ed4f3fe8e9cb7d3d08dd055396fa92f09c0a8d51ac08d01da0cb929c6e7fa5960165e1061dd77c4cc8d88ece45f7460d1cac7aac443aebc03200",
+    "type": "event",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/1805/PNG/512/4230535-calendar-event-star_115022.png"
+  },
+  {
+    "id": 2,
+    "name": "SZA: S.O.S Tour",
+    "date": "Mar 10",
+    "venue": "American Airlines Center",
+    "image": "https://i0.wp.com/liveforlivemusic.com/wp-content/uploads/2022/12/sza-tour.jpeg?resize=740%2C390&ssl=1",
+    "type": "concert",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
+  },
+  {
+    "id": 3,
+    "name": "Laufey: The Bewitched Tour",
+    "date": "Apr 17",
+    "venue": "Winspear Opera House",
+    "image": "https://www.vafest.org/media/ec1b4swo/laufey_pdp3.png?width=1440&height=607&rnd=133488523385130000",
+    "type": "concert",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
+  },
+  {
+    "id": 4,
+    "name": "Lyn Lapid: The Epilogue Tour",
+    "date": "Feb 6",
+    "venue": "Crowbar",
+    "image": "https://i.scdn.co/image/ab67616d00001e02262f7f972fcb6f52b0500576",
+    "type": "concert",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
+  },
+  {
+    "id": 5,
+    "name": "Shazz: Greatest Artist of All Time",
+    "date": "TBD",
+    "venue": "maybe in this room :o",
+    "image": "https://i.scdn.co/image/ab676186000010167102b305c2fbeacf59042847",
+    "type": "concert",
+    "typeIcon": "https://static.vecteezy.com/system/resources/previews/017/178/054/original/100-percent-emoji-symbol-on-transparent-background-free-png.png"
+  },
+  {
+    "id": 6,
+    "name": "Keshi: Hell & Back Tour",
+    "date": "Apr 15",
+    "venue": "South Side Ballroom",
+    "image": "https://media2.miaminewtimes.com/mia/imager/keshi-overcomes-fear-on-his-debut-album-gabriel/u/magnum/14419507/keshi-press-1.jpg?cb=1690310511",
+    "type": "concert",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
+  },
+  {
+    "id": 7,
+    "name": "Hasan Minhaj: Off With His Head Tour",
+    "date": "May 6",
+    "venue": "Civic Theatre",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/phoenix/Hasan-Minhaj-Off-With-His-Head_EEA8FEEF-5056-B3A8-496F2A5B182D3DBA_eebb9c04-5056-b3a8-49aa63b5862a9d24.jpg",
+    "type": "comedy",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/37/PNG/512/comedymask_theapplication_comedi_2949.png"
+  },
+  {
+    "id": 8,
+    "name": "Jimmy O Yang: Tiger Son",
+    "date": "Jul 7",
+    "venue": "The Mirage",
+    "image": "https://i.ticketweb.com/i/00/08/79/39/81/Original.jpg?v=1",
+    "type": "comedy",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/37/PNG/512/comedymask_theapplication_comedi_2949.png"
+  },
+  {
+    "id": 9,
+    "name": "Taylor Swift: The Eras Tour",
+    "date": "Oct 13",
+    "image": "https://www.cincymuseum.org/wp-content/uploads/2023/11/2_Landscape-Hero-Art_16x9_3000-scaled.jpg",
+    "type": "concert",
+    "venue": "AT&T Stadium",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
+  },
+  {
+    "id": 10,
+    "name": "Weston Estate: Something in the Water",
+    "date": "Jun 9",
+    "venue": "The Echo",
+    "image": "https://thehiddenhits.files.wordpress.com/2021/03/weston-estate-the-hidden-hits.jpg?w=1500",
+    "type": "concert",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/390/PNG/512/microphone_39494.png"
+  },
+  {
+    "id": 11,
+    "name": "FoodieLand Night Market",
+    "date": "Apr 21",
+    "venue": "Fair Park",
+    "image": "https://cdn-az.allevents.in/events7/banners/0272fc39f9e203d6cc400004520e2755a1e5a659ffedcb89d92135e3b2d5e035-rimg-w960-h480-gmir.jpg?v=1710192373",
+    "type": "event",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/1805/PNG/512/4230535-calendar-event-star_115022.png"
+  },
+  {
+    "id": 12,
+    "name": "The Tech Roast Show",
+    "date": "Mar 30",
+    "venue": "San Jose",
+    "image": "https://video-images.vice.com/articles/63d27fbf5981e9a84e816147/lede/1674739648918-photo6.jpeg?crop=1xw:0.8426xh;0xw,0.0368xh&resize=1200:*",
+    "type": "comedy",
+    "typeIcon": "https://cdn.icon-icons.com/icons2/37/PNG/512/comedymask_theapplication_comedi_2949.png"
+  }
+]
